@@ -5,7 +5,6 @@
         cd my-electron-app/
 3. Выполните установку npm : 
         npm install
-4. Запустите Vite и Electron в разных терминалах :
-        Vite : npm run dev
-        Electron : npm start
-5. Enjoy and have fun!
+4. Запустите Vite: npm run dev
+5. Запустите Electron : npm start
+6. Enjoy and have fun!
